@@ -1,0 +1,25 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries:
+  - python
+words:
+  - Bodawala
+  - devcontainer
+  - devcontainers
+  - Pranav
+ignoreWords:
+  - anson
+  - autodocstring
+  - charliermarsh
+  - elagil
+  - errorlens
+  - esbenp
+  - njpwerner
+  - tamasfe
+  - usernamehw
+  - vivaxy
+  - yzhang
+import: []
+language: en
+enabled: true
